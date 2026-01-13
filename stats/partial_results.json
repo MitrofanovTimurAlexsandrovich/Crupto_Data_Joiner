@@ -1,0 +1,17 @@
+{
+  "start_time": "2026-01-10 00:32:07.164671",
+  "total_symbols": 500,
+  "completed_symbols": 0,
+  "failed_symbols": 0,
+  "total_candles_downloaded": 0,
+  "total_data_size_mb": 0,
+  "symbols_progress": {
+    "0GUSDT": {
+      "status": "interrupted",
+      "start_time": "2026-01-10 00:32:07.167290",
+      "estimated_candles": 0,
+      "downloaded_candles": 0,
+      "percentage": 0
+    }
+  }
+}
