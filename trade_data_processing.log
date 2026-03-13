@@ -1,0 +1,20 @@
+2026-01-21 00:55:26,851 - INFO - Найдено файлов: 586
+2026-01-21 00:55:26,905 - INFO - Обработка файла: Raw_Data\BYBIT_0GUSDT_LINEAR_2025_2026.csv
+2026-01-21 00:55:27,127 - ERROR - Ошибка при обработке Raw_Data\BYBIT_0GUSDT_LINEAR_2025_2026.csv: Unknown datetime string format, unable to parse: timestamp, at position 0
+2026-01-21 00:55:27,156 - INFO - Обработка файла: Raw_Data\BYBIT_1000000BABYDOGEUSDT_LINEAR_2024_2026.csv
+2026-01-21 00:55:27,940 - ERROR - Ошибка при обработке Raw_Data\BYBIT_1000000BABYDOGEUSDT_LINEAR_2024_2026.csv: Unknown datetime string format, unable to parse: timestamp, at position 0
+2026-01-21 00:55:27,996 - INFO - Обработка файла: Raw_Data\BYBIT_1000000CHEEMSUSDT_LINEAR_2024_2026.csv
+2026-01-21 00:55:28,516 - ERROR - Ошибка при обработке Raw_Data\BYBIT_1000000CHEEMSUSDT_LINEAR_2024_2026.csv: Unknown datetime string format, unable to parse: timestamp, at position 0
+2026-01-21 00:55:28,551 - INFO - Обработка файла: Raw_Data\BYBIT_1000000MOGUSDT_LINEAR_2024_2026.csv
+2026-01-21 00:55:29,309 - ERROR - Ошибка при обработке Raw_Data\BYBIT_1000000MOGUSDT_LINEAR_2024_2026.csv: Unknown datetime string format, unable to parse: timestamp, at position 0
+2026-01-21 00:55:29,360 - INFO - Обработка файла: Raw_Data\BYBIT_10000ELONUSDT_LINEAR_2025_2026.csv
+2026-01-21 00:55:29,786 - ERROR - Ошибка при обработке Raw_Data\BYBIT_10000ELONUSDT_LINEAR_2025_2026.csv: Unknown datetime string format, unable to parse: timestamp, at position 0
+2026-01-21 00:55:29,812 - INFO - Обработка файла: Raw_Data\BYBIT_10000QUBICUSDT_LINEAR_2024_2026.csv
+2026-01-21 00:55:30,295 - ERROR - Ошибка при обработке Raw_Data\BYBIT_10000QUBICUSDT_LINEAR_2024_2026.csv: Unknown datetime string format, unable to parse: timestamp, at position 0
+2026-01-21 00:55:30,328 - INFO - Обработка файла: Raw_Data\BYBIT_10000SATSUSDT_LINEAR_2023_2026.csv
+2026-01-21 00:55:31,359 - ERROR - Ошибка при обработке Raw_Data\BYBIT_10000SATSUSDT_LINEAR_2023_2026.csv: Unknown datetime string format, unable to parse: timestamp, at position 0
+2026-01-21 00:55:31,427 - INFO - Обработка файла: Raw_Data\BYBIT_1000BONKUSDT_LINEAR_2023_2026.csv
+2026-01-21 00:55:32,841 - ERROR - Ошибка при обработке Raw_Data\BYBIT_1000BONKUSDT_LINEAR_2023_2026.csv: Unknown datetime string format, unable to parse: timestamp, at position 0
+2026-01-21 00:55:32,932 - INFO - Обработка файла: Raw_Data\BYBIT_1000BTTUSDT_LINEAR_2022_2026.csv
+2026-01-21 00:55:34,693 - ERROR - Ошибка при обработке Raw_Data\BYBIT_1000BTTUSDT_LINEAR_2022_2026.csv: Unknown datetime string format, unable to parse: timestamp, at position 0
+2026-01-21 00:55:34,816 - INFO - Обработка файла: Raw_Data\BYBIT_1000CATUSDT_LINEAR_2024_2026.csv

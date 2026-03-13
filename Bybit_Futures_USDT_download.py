@@ -206,7 +206,7 @@ def download_symbol(symbol: str):
 # ================== MAIN ==================
 
 def main():
-    symbols = get_linear_usdt_symbols()
+    symbols = ["DOGEUSDT"] #get_linear_usdt_symbols()
 
     for symbol in symbols:
         if file_already_exists(symbol):
